@@ -12,7 +12,7 @@ void main() {
         body: Column(
           children: [
             Center(
-              child: Image( 
+              child: Image(
                   height: 400,
                   image: AssetImage(
                     "assets/images/intro.png",
@@ -33,3 +33,4 @@ void main() {
     ),
   );
 }
+//check check check
